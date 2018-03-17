@@ -8,4 +8,3 @@ git commit -m "something name"
 git push origin master
 ```
 
-test git ssh
