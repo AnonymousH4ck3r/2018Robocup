@@ -7,4 +7,5 @@ git add -A
 git commit -m "something name"
 git push origin master
 ```
+ALSO mAKE A CODE EVERY DAY!
 
