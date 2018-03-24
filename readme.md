@@ -28,4 +28,6 @@ print (type(maxisdumb))
 ```
 Still no orders...
 ```shell
-DAY 1: The robot is going to be small(must be small to fit through obsticals) The robot will carry two light sensors, looking for lines9black.) team name will be: FAREX Materials: EV3, whels, light sensors, techicanal peices, eudcation set. 24/3/2018
+DAY 1: 
+The robot is going to be small(must be small to fit through obsticals) The robot will carry two light sensors, looking for lines9black.)
+ team name will be: FAREX Materials: EV3, whels, light sensors, techicanal peices, eudcation set. 24/3/2018
