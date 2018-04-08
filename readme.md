@@ -31,3 +31,37 @@ Still no orders...
 DAY 1: 
 The robot is going to be small(must be small to fit through obsticals) The robot will carry two light sensors, looking for lines9black.)
  team name will be: FAREX Materials: EV3, whels, light sensors, techicanal peices, eudcation set. 24/3/2018
+ 
+ Date: 2/Apr/2018
+ 
+ ```shell
+ Location:
+ China
+ 
+ Source:
+ Udemy Online Courses ( Watch DrGraeme.org )
+ 
+ Information:
+ .The robot needs at least two powered wheels
+ .To make the robot turn, the motors have to spin at different speeds
+ .When the EV3 logo is red, it means that the robot is on and you can download your code ( P.S You have two options! Download and play or play! )
+ 
+ Date: 3/Apr/2018
+ 
+ Source:
+ Vid10-vid40
+ 
+ Coding blocks:
+ 
+ .Move Tank
+ .Stop code
+ .Loop
+ .Start
+ .Forever
+ 
+ Good coding blocks to make the robot follow the line:
+ .Move Tank
+ .Loop
+ .If:
+ .Forever
+ .Scan ( check the reflection! )
