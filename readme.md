@@ -1,4 +1,4 @@
-started
+# started
 I made some modifications to my code
 Remeber to use the word "Git" Ex:
 
@@ -27,14 +27,16 @@ maxisdumb=False
 print (type(maxisdumb))
 ```
 Still no orders...
-```shell
-DAY 1: 
+
+
+# DAY 1: 
 The robot is going to be small(must be small to fit through obsticals) The robot will carry two light sensors, looking for lines9black.)
  team name will be: FAREX Materials: EV3, whels, light sensors, techicanal peices, eudcation set. 24/3/2018
  
- Date: 2/Apr/2018
+
  
- ```shell
+# Date: 2/Apr/2018
+ 
  Location:
  China
  
@@ -46,7 +48,7 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  .To make the robot turn, the motors have to spin at different speeds
  .When the EV3 logo is red, it means that the robot is on and you can download your code ( P.S You have two options! Download and play or play! )
  
- Date: 3/Apr/2018
+# Date: 3/Apr/2018
  
  Source:
  Vid10-vid40
