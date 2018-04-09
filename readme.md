@@ -72,7 +72,7 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  
  New things:
  
- .EV3 is better because it has more functions and variebles (Ev3-G is for profesionals!)
- .Ev3 basic is MicroSoft small basic combined with Ev3 basic extention
- .Microsoft is a little harder!
- .You have to have Windows 8 or you will have to chose Windows 8 even if you don't have it (It's for MicroSoft!)
+ * EV3 is better because it has more functions and variebles (Ev3-G is for profesionals!)
+ * Ev3 basic is MicroSoft small basic combined with Ev3 basic extention
+ * Microsoft is a little harder!
+ * You have to have Windows 8 or you will have to chose Windows 8 even if you don't have it (It's for MicroSoft!)
