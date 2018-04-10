@@ -81,9 +81,9 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  
  New things:
  
- *If you use the block "If" you will have to select a variable (To follow the line use Port and type 45!)
- *You don't want your wheels spinning too fast!
- *Use the light sensor and the ultrasonic sensor to sense where you are going!
- *Ultrasonic sensor is for basicly seeing!
- *I learnt how to make the robot follow the line!
- 
+ * If you use the block "If" you will have to select a variable (To follow the line use Port and type 45!)
+ * You don't want your wheels spinning too fast!
+ * Use the light sensor and the ultrasonic sensor to sense where you are going!
+ * Ultrasonic sensor is for basicly seeing!
+ * I learnt how to make the robot follow the line!
+ * I learnt that you want your speed below 50!
