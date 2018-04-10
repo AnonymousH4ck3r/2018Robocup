@@ -102,4 +102,5 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  * Motor.StartSync
  * Motor.Stop
  * Program.Delay
+ * Sensor.SetMode
  
