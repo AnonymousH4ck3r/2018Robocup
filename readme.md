@@ -86,4 +86,20 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  * Use the light sensor and the ultrasonic sensor to sense where you are going!
  * Ultrasonic sensor is for basicly seeing!
  * I learnt how to make the robot follow the line!
+ 
+ # MicroSoft small basic
+ 
  * I learnt that you want your speed below 50!
+ * Use Motor.Move to make your robot move
+ * Ex: Motor.Move("BC",-50,630,"True") this will make it go forwards for 2s and then hit the brakes
+ * Use Motot.MoveSnyc to change the speed of each motor
+ 
+ # New blocks:
+ 
+ * Move.Motor
+ * Motor.Start
+ * Motor.Sync
+ * Motor.StartSync
+ * Motor.Stop
+ * Program.Delay
+ 
