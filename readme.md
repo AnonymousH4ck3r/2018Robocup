@@ -68,7 +68,7 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  .Forever
  .Scan ( check the reflection! )
  
- # Date: 11/Apr/2018
+ # Date: 9/04/2018
  
  New things:
  
@@ -76,3 +76,14 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  * Ev3 basic is MicroSoft small basic combined with Ev3 basic extention
  * Microsoft is a little harder!
  * You have to have Windows 8 or you will have to chose Windows 8 even if you don't have it (It's for MicroSoft!)
+ 
+ # Date: 10/04/2018
+ 
+ New things:
+ 
+ *If you use the block "If" you will have to select a variable (To follow the line use Port and type 45!)
+ *You don't want your wheels spinning too fast!
+ *Use the light sensor and the ultrasonic sensor to sense where you are going!
+ *Ultrasonic sensor is for basicly seeing!
+ *I learnt how to make the robot follow the line!
+ 
