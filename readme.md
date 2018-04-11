@@ -104,3 +104,15 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  * Program.Delay
  * Sensor.SetMode
  
+ # Date: 10/04/2018
+ 
+ New blocks:
+ 
+ * Speaker.Tone
+ * Speaker.Wait
+ * Speaker.Note
+ * Speaker.Stop
+ * Speaker.Play
+ * Button.Wait
+ (P.S This is only for the Microsoft Small Basic!)
+Do NOT NEED To use Ev3 Explorer!
