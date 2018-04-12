@@ -117,7 +117,7 @@ The robot is going to be small(must be small to fit through obsticals) The robot
  (P.S This is only for the Microsoft Small Basic!)
 Do NOT NEED To use Ev3 Explorer!
 
-# Date: 11/04/2018
+# Date: 12/04/2018
 
 * LCD.Write
 * LCD.Text
