@@ -1,0 +1,20 @@
+LeftSensorPort=1
+RightSensorPort=4
+
+Sensor.SetMode(LeftSensorPort, 1)
+Sensor.SetMode(RightSensorPort, 1)
+
+While "True"
+  If Sensor.ReadRawValue(LeftSensorPort, 1)=1 Or Sensor.ReadRawValue(LeftSensorPort, 1)=7 Then
+    Motor.Move ("B", 5, -360, "True")
+  Else 
+    If Sensor.ReadRawValue(RightSensorPort, 1)=1 Or Sensor.ReadRawValue(RightSensorPort, 1)=7 Then
+      Motor.Move ("C", 5, -360, "True")
+    Else
+      Motor.Move ("BC", 5, -360, "True")
+    EndIf
+  EndIf
+    
+EndWhile
+
+Program.End()
