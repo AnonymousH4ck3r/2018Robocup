@@ -21,7 +21,15 @@ If Sensor.ReadRawValue(RightSensorPort, 1)=1 Or Sensor.ReadRawValue(RightSensorP
 * Don't forget to git control your code!
 
 # Robot History
+
+Second final modifications: 
+
 Foward Speed: 15
 Charge down: 1.4 sec 
 
-The final code is good but the parents mucked it up for a good and bad reason. They advised us to changed the speed and sensor position and now it is not going the best, but the good thing is that it can make it to the destination in time. It is a really big risk and is still kind of buggy! 
+The final code is good but the parents mucked it up for a good and bad reason. They advised us to changed the speed and sensor position and now it is not going the best, but the good thing is that it can make it to the destination in time. It is a really big risk and is still kind of buggy!
+
+Last final modifications:
+
+Forward Speed: 20
+Charge Down: 1.4 sec
