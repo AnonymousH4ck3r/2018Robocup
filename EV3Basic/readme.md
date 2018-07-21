@@ -1,3 +1,19 @@
+# Round 2: 21/07/2018
+
+# Introduction:
+
+This day as we tested the program, we came to some problems. This time, our Mum hadn't been giving us very little hints our any little advise, so we were put to a independent test. Here are some problems we went through. 
+
+# Problems:
+
+* 1. Our robot kept going off track when it came to curves or sharp turns. We fixed it by changing the speed down and found out that the speed can not be too fast nor too slow
+
+* 2. The sensors are wearing out or going out when we are testing our code. We still haven't figured out why yet!
+
+* 3. Our robot sometimes break-dances (Moves to the right and then the left) for unknown reasons.   
+
+
+
 # How to write the If command
 
 ```Small Basic
@@ -33,3 +49,5 @@ Last final modifications:
 
 Forward Speed: 20
 Charge Down: 1.4 sec
+
+========================================
