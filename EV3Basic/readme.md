@@ -51,3 +51,13 @@ Forward Speed: 20
 Charge Down: 1.4 sec
 
 ========================================
+
+# Robot Coding Class:
+
+Things I learned:
+
+* You can not put end program blocks in loops, or switches
+
+* The Repeat block can be used as a repeat until block
+
+* Don't use too much loop blocks 
