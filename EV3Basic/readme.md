@@ -61,3 +61,7 @@ Things I learned:
 * The Repeat block can be used as a repeat until block
 
 * Don't use too much loop blocks 
+
+# #2 Robot Coding Class With Aron
+
+* How to use the NXT sound sensor
