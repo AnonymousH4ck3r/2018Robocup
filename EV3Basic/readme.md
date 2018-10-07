@@ -65,3 +65,9 @@ Things I learned:
 # #2 Robot Coding Class With Aron
 
 * How to use the NXT sound sensor
+
+* One rotation with one motor speed at 0 will do a 90 degree spin
+
+* Normal a clap will reach to the sound level 21 and normal talk level can also reach to the sound level 21 or higher and it can be done with 4 blocks without using a loop ? repeat block
+
+* I tried making a robot go forward with only 2 blocks and it was making a move tank block's condition time and make it run for a very long time (100000000000000000000000000000000000)
