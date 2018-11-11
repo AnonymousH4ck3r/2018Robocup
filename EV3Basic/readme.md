@@ -72,12 +72,3 @@ Things I learned:
 
 * I tried making a robot go forward with only 2 blocks and it was making a move tank block's condition time and make it run for a very long time (100000000000000000000000000000000000)
 
-# Robot Coding Class 2:
-
-* Recap on how to use two sensors to follow a line that I forgot how to
-
-* First Quiz and also pretty sure that I will get a A or a A+!
-
-* The negative speed for the while that is not moving to help the wheel that is
-
-* Slow but steady is best and Aron said my code was more accurate
